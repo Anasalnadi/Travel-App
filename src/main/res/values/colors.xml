@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorwhitOrang">#ffba5f</color>
+    <color name="colorwhitBlue">#9AC7F0</color>
+    <color name="brandWhite">#FFFFFF</color>
+    <color name="barndOrange">#F15A25</color>
+    <color name="brandGray">#F0BFBFBF</color>
+</resources>
